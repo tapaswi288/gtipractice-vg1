@@ -1,0 +1,7 @@
+
+                        registration page
+                    FIRST NAME       ----------
+		    SECOND NAME      -----------
+		    EMAIL            -----------
+		      CREATE            CANCLE
+
